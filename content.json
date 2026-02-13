@@ -1,0 +1,54 @@
+{
+  "meditation": [
+    {
+      "id": "med-remote-1",
+      "title": "Monthly Calm",
+      "subtitle": "Premium session – release tension",
+      "duration": "10 min",
+      "focus": "Breath + body scan",
+      "tags": ["Calm", "Premium", "Monthly"],
+      "audioUri": "https://cdn.jsdelivr.net/gh/martdev1963/health-app-content@main/audio/monthly-calm.mp3",
+      "steps": [
+        "Find a comfortable seat and soften your gaze.",
+        "Rest your hands where they feel natural.",
+        "Inhale for 4, exhale for 6. Repeat.",
+        "Allow the breath to move the body without effort.",
+        "Scan from head to toes, releasing tension.",
+        "Return attention to the breath if the mind wanders."
+      ],
+      "narration": [
+        "Welcome to Monthly Calm.",
+        "This is a premium session for deep relaxation.",
+        "There is nothing you need to do or achieve here.",
+        "Find a comfortable position and allow the body to settle.",
+        "Begin to breathe slowly and evenly.",
+        "Inhale through the nose, steady and full.",
+        "Exhale gently, letting the body soften.",
+        "Notice the natural rhythm of your breathing.",
+        "Allow each exhale to be slightly longer than the inhale.",
+        "Soften the jaw and relax the tongue.",
+        "Let the shoulders drop away from the ears.",
+        "Bring attention to the crown of the head.",
+        "Slowly move awareness down through the face and neck.",
+        "Notice the chest rising and falling with each breath.",
+        "Feel the weight of the body supported beneath you.",
+        "If the mind wanders, gently return to the breath.",
+        "Rest here for a few more breaths.",
+        "When you feel ready, gently reawaken the body.",
+        "Carry this calm with you as you return to your day."
+      ],
+      "narrationLoop": [
+        "Notice the breath moving on its own.",
+        "Let the shoulders soften again.",
+        "Rest in the quiet between breaths."
+      ],
+      "narrationLoopTwo": [
+        "Feel the breath widen the ribs.",
+        "Soften the space behind the eyes.",
+        "Return to a calm, steady rhythm."
+      ],
+      "loopChunkPauseMs": 10000
+    }
+  ],
+  "sleep": []
+}
