@@ -1,4 +1,148 @@
 {
+  "sleep": [
+    {
+      "id": "sleep-premium-1",
+      "title": "Winter Night Pro",
+      "subtitle": "Premium – extended wind-down with binaural sleep waves",
+      "duration": "20 min",
+      "focus": "Progressive relaxation + deep rest",
+      "tags": ["Premium", "Sleep", "Relaxation"],
+      "audioUri": "https://cdn.jsdelivr.net/gh/martdev1963/health-app-content@main/audio/winter-night-premium.mp3",
+      "steps": [
+        "Lower the lighting and settle into bed.",
+        "Let your eyelids grow heavy.",
+        "Breathe in slowly, exhale with ease.",
+        "Release tension from head to toes.",
+        "Allow each breath to carry you deeper into rest."
+      ],
+      "narration": [
+        "Welcome to Winter Night Pro.",
+        "This premium session guides you into deep, restorative sleep.",
+        "Settle into your bed and make any final adjustments.",
+        "Allow the body to grow heavy and supported.",
+        "Breathe in slowly through the nose.",
+        "Exhale gently, releasing the day.",
+        "With each breath, the nervous system shifts toward rest.",
+        "Let the scalp and forehead soften.",
+        "Relax the jaw and allow the tongue to rest.",
+        "Release the shoulders away from the ears.",
+        "Feel the chest and belly rise and fall.",
+        "Soften through the torso, hips, and legs.",
+        "Let the feet feel heavy and warm.",
+        "The body is safe. The mind can rest.",
+        "Drift with the slow rhythm of the breath.",
+        "Sleep arrives when it is ready.",
+        "Welcome it effortlessly."
+      ],
+      "narrationLoop": [
+        "Let the body feel heavy and supported.",
+        "Allow the breath to slow on its own.",
+        "With each exhale, soften a little more.",
+        "Rest in the calm of the room."
+      ],
+      "narrationLoopTwo": [
+        "Release the face, then the shoulders.",
+        "Imagine the bed supporting your whole body.",
+        "Let each muscle soften.",
+        "Drift with the slow rhythm of the breath."
+      ],
+      "loopChunkPauseMs": 10000
+    }
+  ],
+  "sleepStories": [
+    {
+      "id": "story-premium-1",
+      "title": "The Starlit Garden",
+      "subtitle": "Premium – a gentle story to drift off",
+      "duration": "10 min",
+      "focus": "Calm narrative",
+      "tags": ["Premium", "Sleep", "Story"],
+      "audioUri": "https://cdn.jsdelivr.net/gh/martdev1963/health-app-content@main/audio/starlit-garden.mp3",
+      "narration": [
+        "Beyond the edge of the day, there is a garden that opens only at night.",
+        "You find the path by the light of the first star.",
+        "The ground is soft beneath your feet. The air is cool and still.",
+        "Flowers you cannot name bloom in silver and deep blue.",
+        "There is no hurry here. No door to knock on. No one waiting.",
+        "You walk slowly. You breathe slowly. The garden holds you.",
+        "Somewhere in the distance, water moves over stone.",
+        "The sky above is wide and quiet.",
+        "You find a bench, or perhaps a patch of moss, and you lie down.",
+        "The stars drift. Your thoughts drift. The night wraps around you.",
+        "You are safe. You are held. You can rest.",
+        "The garden stays with you as sleep draws near.",
+        "Let go. Let sleep come. The stars will keep watch."
+      ]
+    },
+    {
+      "id": "story-premium-2",
+      "title": "The Railway to Rest",
+      "subtitle": "Premium – a journey on the night train",
+      "duration": "8 min",
+      "focus": "Calm narrative",
+      "tags": ["Premium", "Sleep", "Story", "Travel"],
+      "audioUri": "https://cdn.jsdelivr.net/gh/martdev1963/health-app-content@main/audio/railway-to-rest.mp3",
+      "narration": [
+        "You board the night train with no destination in mind.",
+        "The car is nearly empty. The seats are soft. The windows are dark.",
+        "The engine hums a low, steady rhythm. The wheels click gently on the tracks.",
+        "You watch the lights of towns pass by, small and far away.",
+        "There is nothing to do but rest. Nothing to plan. Nothing to solve.",
+        "The motion rocks you. The darkness holds you.",
+        "Somewhere ahead, the train will stop. But not yet. Not for a long while.",
+        "You close your eyes and let the journey carry you.",
+        "The click of the rails becomes a lullaby.",
+        "You drift. The night rolls on. Sleep finds you somewhere between stations."
+      ]
+    },
+    {
+      "id": "story-premium-3",
+      "title": "The Island of Soft Dreams",
+      "subtitle": "Premium – a shore where you can rest",
+      "duration": "7 min",
+      "focus": "Calm narrative",
+      "tags": ["Premium", "Sleep", "Story", "Nature"],
+      "audioUri": "https://cdn.jsdelivr.net/gh/martdev1963/health-app-content@main/audio/island-soft-dreams.mp3",
+      "narration": [
+        "You step onto the island as the last light leaves the sky.",
+        "The sand is warm under your feet. The waves are slow and even.",
+        "Palms whisper above you. The air smells of salt and flowers.",
+        "You walk to a hammock strung between two trees.",
+        "You lie back. The fabric sways. The waves keep their rhythm.",
+        "There is no phone here. No list. No hour to keep.",
+        "Only the sound of the sea. Only the drift of the breeze.",
+        "Your body grows heavy. Your mind grows quiet.",
+        "The island holds you. The night holds you.",
+        "Let the waves carry you into sleep."
+      ]
+    }
+  ],
+  "breathwork": [
+    {
+      "id": "breathe-premium-1",
+      "title": "Box Breathing Advanced",
+      "subtitle": "Premium – 10 min guided with binaural beats",
+      "duration": "10 min",
+      "focus": "Deep calm + focus",
+      "tags": ["Premium", "Calm", "Advanced"],
+      "breathPattern": "box",
+      "audioUri": "https://cdn.jsdelivr.net/gh/martdev1963/health-app-content@main/audio/box-advanced.mp3"
+    },
+    {
+      "id": "breathe-premium-2",
+      "title": "Coherent Breath",
+      "subtitle": "6 breaths per minute – heart-brain coherence",
+      "duration": "12 min",
+      "focus": "5-5 inhale-exhale rhythm",
+      "tags": ["Premium", "Focus"],
+      "breathPattern": "custom",
+      "customPhase": {
+        "inhaleSeconds": 5,
+        "exhaleSeconds": 5
+      },
+      "audioUri": "https://cdn.jsdelivr.net/gh/martdev1963/health-app-content@main/audio/coherent-breath.mp3"
+    }
+  ],
   "affirmations": [
     {
       "id": "affirm-premium-1",
